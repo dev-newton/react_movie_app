@@ -116,7 +116,7 @@ class Home extends Component {
     }
   };
 
-  // fetchItems = endpoint => {
+  // fetchItems = endpointd => {
   //   fetch(endpoint)
   //     .then(result => result.json())
   //     .then(result =>
