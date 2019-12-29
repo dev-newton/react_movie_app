@@ -13,6 +13,7 @@ const Header = () => {
             alt="rmdb-logo"
           />
         </Link>
+
         <img
           className="rmdb-tmdb-logo"
           src="./images/tmdb_logo.png"
